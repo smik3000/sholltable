@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(130deg, rgba(33, 70, 192, 0.87)0%,rgba(19, 194, 179, 0.87)45%,rgba(206, 96, 250, 0.87)100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: #cceefd;
+    padding: 40px 130px;
+}
+h1{
+    font-size: 64px;
+    font-weight: 400;
+
+}
+h2{
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+div{
+    margin-top: 24px;
+}
+table{
+    width: 100%;
+    border-collapse:collapse ;
+}
+td,th{
+    border: 1px solid #bfe8fa;
+    padding: 16px;
+}
+th{
+    background-color: blue;
+    font-size: 32px;
+
+}
+td{
+    font-size: 24px;
+}
+li{
+    font-size: 24px;
+}
+.blue{
+    background-color: blue;  
+}
+
